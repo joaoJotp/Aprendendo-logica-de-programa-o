@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: auto;
+    max-width: 800px;
+    flex-wrap: wrap;
+    
+    & .card{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        background-color: #222;
+        color: #fff;
+        padding: 10px;
+        border-radius: 20px;
+        align-items: center;
+    }
+}

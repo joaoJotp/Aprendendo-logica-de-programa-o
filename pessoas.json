@@ -1,0 +1,25 @@
+[
+    {
+        "nome": "João",
+        "descricao": "Desenvolvedor Front-End"
+    },
+    {
+        
+        "nome": "Gabriel",
+        "descricao": "Desenvolvedor Back-End"
+    },
+    {
+        "nome": "Carlos",
+        "descricao": "Desenvolvedor UI/UX Desing"
+    },
+    {
+        "nome": "Igor",
+        "descricao": "Banco de dados"
+    },
+    {
+        "nome": "Toninho",
+        "descricao": "Devloper"
+    }
+
+    
+]
